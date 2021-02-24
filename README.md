@@ -37,6 +37,14 @@ The Colorado Board of Elections has asked to expand on the original tasks of the
 
 All of the above tasks are to be printed on the command line as well as written to a text file. 
 
+## Challenge Election-Audit Results
+The election- audit challenge results show that
+- Jefferson County cast 38,855 votes which was 10.5% of the total votes for the precinct.
+- Denver County cast 306,055 votes which was 82.8% of the total votes for the precinct.
+- Jefferson County cast 24,801 votes which was 6.7% of the total votes for the precinct.
+>
+
 ## Challenge Summary
+
 
 
